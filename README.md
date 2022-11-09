@@ -4,7 +4,7 @@ This project is part of the [Intro to SQL](https://www.khanacademy.org/computing
 
 ## What I Learned
 
-This project was the first full project I've done using SQL and helped me practice creating tables as well as selecting fields to be displayed. I also figured out how to chain together `code`SELECT`code` statements to display summary statistics as a single row.
+This project was the first full project I've done using SQL and helped me practice creating tables as well as selecting fields to be displayed. I also figured out how to chain together `SELECT` statements to display summary statistics as a single row.
 
 ## Shout Out
 
